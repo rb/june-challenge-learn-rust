@@ -1,5 +1,11 @@
 # Learn Rust Journal
 
+## June 03 _(20 minutes)_
+
+- Started working on the guessing game program
+- Learned about variable bindings
+- Imported the `rand` crate
+
 ## June 02 _(10 minutes)_
 
 - Read the introduction about Cargo
