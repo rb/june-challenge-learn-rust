@@ -1,5 +1,11 @@
 # Learn Rust Journal
 
+## June 05 _(20 minutes)_
+
+- _(Missed yesterday)_
+- Finished the guessing game program
+- Accidentally made the program crash when I added a backslash character to my input (which was later resolved by another change to the code)
+
 ## June 03 _(20 minutes)_
 
 - Started working on the guessing game program
