@@ -1,5 +1,10 @@
 # Learn Rust Journal
 
+## June 06 _(15 minutes)_
+
+- Began working on dining philosophers program
+- Learned a bit about structures, vectors
+
 ## June 05 _(20 minutes)_
 
 - _(Missed yesterday)_
