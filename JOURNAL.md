@@ -1,5 +1,10 @@
 # Learn Rust Journal
 
+## June 07 _(15 minutes)_
+
+- Finished the dining philosophers program
+- Learned about atomic reference count, mutexes, tuples
+
 ## June 06 _(15 minutes)_
 
 - Began working on dining philosophers program
