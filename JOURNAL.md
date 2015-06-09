@@ -1,5 +1,10 @@
 # Learn Rust Journal
 
+## June 08 _(15 minutes)_
+
+- Started embed project
+- Learned about public external functions
+
 ## June 07 _(15 minutes)_
 
 - Finished the dining philosophers program
