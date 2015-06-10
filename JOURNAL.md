@@ -1,5 +1,10 @@
 # Learn Rust Journal
 
+## June 09 _(10 minutes)_
+
+- Embedded the embed project library into Ruby and Python
+- Started reading about effective Rust
+
 ## June 08 _(15 minutes)_
 
 - Started embed project
