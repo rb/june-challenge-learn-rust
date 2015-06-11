@@ -1,5 +1,9 @@
 # Learn Rust Journal
 
+## June 10 _(10 minutes)_
+
+- Read about [the Stack and the Heap](https://doc.rust-lang.org/stable/book/the-stack-and-the-heap.html)
+
 ## June 09 _(10 minutes)_
 
 - Embedded the embed project library into Ruby and Python
