@@ -1,5 +1,11 @@
 # Learn Rust Journal
 
+## June 11 _(15 minutes)_
+
+- Read about testing
+- Created adder project
+- Learned about unit tests, integration tests, and documentation tests
+
 ## June 10 _(10 minutes)_
 
 - Read about [the Stack and the Heap](https://doc.rust-lang.org/stable/book/the-stack-and-the-heap.html)
