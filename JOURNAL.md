@@ -1,5 +1,10 @@
 # Learn Rust Journal
 
+## June 12 _(10 minutes)_
+
+- Read about conditional compilation
+- Started reading about documentation
+
 ## June 11 _(15 minutes)_
 
 - Read about testing
