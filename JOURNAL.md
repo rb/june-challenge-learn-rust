@@ -1,5 +1,13 @@
 # Learn Rust Journal
 
+## June 17 _(5 minutes)_
+
+- Read a bit more on documentation
+
+## June 16 _(5 minutes)_
+
+- Read a bit about iterators
+
 ## June 12 _(10 minutes)_
 
 - Read about conditional compilation
