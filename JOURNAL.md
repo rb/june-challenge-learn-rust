@@ -1,5 +1,14 @@
 # Learn Rust Journal
 
+## June 19 _(15 minutes)_
+
+- Finished reading about documentation
+- Finished reading about iterators, consumers
+
+## June 18 _(5 minutes)_
+
+- Read a little more about iterators
+
 ## June 17 _(5 minutes)_
 
 - Read a bit more on documentation
